@@ -1,0 +1,7 @@
+/Users/rendelllasola/Documents/vs2022/release/webapp
+/Users/rendelllasola/Documents/vs2022/release/appsettings.Development.json
+/Users/rendelllasola/Documents/vs2022/release/appsettings.json
+/Users/rendelllasola/Documents/vs2022/release/webapp.dll
+/Users/rendelllasola/Documents/vs2022/release/webapp.deps.json
+/Users/rendelllasola/Documents/vs2022/release/webapp.runtimeconfig.json
+/Users/rendelllasola/Documents/vs2022/release/webapp.pdb

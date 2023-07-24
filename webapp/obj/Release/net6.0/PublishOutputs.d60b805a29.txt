@@ -1,0 +1,7 @@
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.dll
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.deps.json
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.runtimeconfig.json
+/Users/rendelllasola/Documents/vs2022/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.pdb
